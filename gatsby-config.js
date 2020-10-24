@@ -3,7 +3,7 @@ module.exports = {
     title: `钟城律师博客`,
     author: {
       name: `钟城`,
-      summary: `中诚律师事务所创始人，提供行专业律师商务调查服务！`,
+      summary: `中诚律师事务所创始人，提供专业律师商务调查服务！`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
